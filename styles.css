@@ -1,0 +1,48 @@
+body {
+  background-color: lightgrey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Logo {
+  background-color: grey;
+  padding: 10px;
+  margin: 5px;
+}
+
+.Main {
+  margin: 10px 5px;
+}
+
+.Left {
+  background-color: lightgrey;
+  height: 300px;
+  width: 30%;
+  display: inline-block;
+}
+
+.Right {
+  height: 300px;
+  float: right;
+  width: 70%;
+}
+
+.Right header {
+  height: 100px;
+  background-color: grey;
+  text-align: center;
+  line-height: 100px;
+}
+
+.Right div {
+  background-color: grey;
+  margin-top: 10px;
+  height: 190px;
+  text-align: center;
+  line-height: 190px;
+}
+
+footer {
+  background-color: grey;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}
